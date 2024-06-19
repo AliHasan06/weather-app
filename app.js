@@ -1,6 +1,6 @@
 const form = document.querySelector("#form");
 const city = document.querySelector("#city");
-const card = document.querySelector("#card00000");
+const card = document.querySelector("#card0");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
